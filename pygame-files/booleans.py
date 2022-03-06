@@ -1,0 +1,13 @@
+print(bool(False))
+print(bool(0))
+print(bool(''))
+print(bool(None))
+print(bool([]))
+print(bool({}))
+
+print(bool(True))
+print(bool(4))
+print(bool('hello'))
+print(bool(['eggs', 'cheese']))
+print(bool(0.1))
+print(bool({'name': 'jack'}))
